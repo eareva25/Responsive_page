@@ -1,1 +1,2 @@
-https://eareva25.github.io/Responsive_page_CSS/
+- Responsive: https://eareva25.github.io/Responsive_page_CSS/
+- Non-responsive: https://eareva25.github.io/UFO_Boostrap/
